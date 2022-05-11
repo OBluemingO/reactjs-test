@@ -1,4 +1,4 @@
-# at first using command for install package all of this repo
+# at first using command for install package all of this repo required
 npm install react-scripts@latest
 
 # Getting Started with Create React App
